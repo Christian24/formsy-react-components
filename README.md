@@ -10,4 +10,8 @@ By default, elements are wrapped with the required tags to be included in a [Boo
 
 ## Documentation
 
-None yet! Best bet for now is to examine the [source](https://github.com/twisty/formsy-react-components/blob/gh-pages/playground/src/app.js) for the [Playground](http://twisty.github.io/formsy-react-components/playground/).
+Not much yet! Best bet for now is to examine the [source](https://github.com/twisty/formsy-react-components/blob/gh-pages/playground/src/app.js) for the [Playground](http://twisty.github.io/formsy-react-components/playground/).
+###Installation
+You can either clone the entire repository or install the npm package:
+`npm i formsy-react-components`
+
